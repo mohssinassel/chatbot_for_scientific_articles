@@ -13,6 +13,9 @@ Clone the repository:
 git clone https://github.com/your_username/ChatBot-Chromadb-together.ai-Llama-2-70b.git
 ```
 
-Install the required dependencies: ```sh install -r requirements.txt ```
+Install the required dependencies: 
+```sh 
+install -r requirements.txt
+```
 
 Run the main script to start the chatbot: ```sh python app.py ```
