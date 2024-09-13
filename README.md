@@ -20,4 +20,5 @@ install -r requirements.txt
 
 Run the main script to start the chatbot: 
 ```sh 
-python app.py ```
+python app.py
+```
