@@ -21,10 +21,10 @@ def Extract_text_pypdf2(PATH_FILE_NORMAL):
 
 
 #PyPDF-2 can't exratact text from File scanned or images inside our PDF file
-PATH_FILE_SCANED = "C:/Users/hamza/Desktop/Researches/Attestation.pdf"
+PATH_FILE_SCANED = "C:/Users/MOHCINE_01/CV.pdf"
 
 #if the PDF File is normal, it means that we can copy it in this case PyPDF-2 can extract text
-PATH_FILE_NORMAL = "D:/HAMZA M2/Dictionnary.pdf"
+PATH_FILE_NORMAL = "D:/Users/MOHCINE_01/Dictionnary.pdf"
 
 # content = Extract_text_pypdf2(PATH_FILE_NORMAL)
 # print(content)
