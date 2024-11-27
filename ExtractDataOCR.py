@@ -71,6 +71,6 @@ def extract_text_from_pdf(PATH_FILE):
     return extract_text
 
 # # Utilisation de la fonction extract_text_from_pdf
-# PATH_FILE = "C:/Users/hamza/Desktop/Researches/biographie.pdf"
+
 # extracted_text = extract_text_from_pdf(PATH_FILE)
 # print(extracted_text)
